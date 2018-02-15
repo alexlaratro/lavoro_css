@@ -1,0 +1,41 @@
+.puglia
+{
+font-family:"Ravie";
+font-size:60;
+color:orange;
+background:green;
+}
+
+
+
+#ciao
+{
+font-family:"Forte";
+font-size:36;
+color:red;
+background:yellow;
+}
+
+#quando
+{
+
+font-size:20;
+color:white;
+background:blue;	
+
+}
+
+#select
+{
+font-size:24;
+font-family:"Ravie";
+color:white;
+}
+body
+{
+   position:relative;
+    height: 100%;
+    background:#fff url(puglia.jpg) no-repeat center center;
+    background-size:cover;
+    box-shadow:inset 0 -1px 5px rgba(0,0,0,0.6);
+}
